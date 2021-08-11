@@ -1,0 +1,43 @@
+{
+  "name": "w40-theme",
+  "displayName": "w40 Theme",
+  "description": "A simple VSCode theme, good for your eyes.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Emerson Santiago",
+  "publisher": "emersonsm",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emersonsm/w40.git"
+  },
+  "bugs": {
+    "url": "https://github.com/emersonsm/w40/issues"
+  },
+  "galleryBanner": {
+    "color": "#cd84c8",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "w40",
+    "pink theme",
+    "pink-theme",
+    "theme",
+    "color-theme"
+  ],
+  "icon": "w40-icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "w40 Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/w40.json"
+      }
+    ]
+  }
+}
