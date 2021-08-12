@@ -354,7 +354,7 @@
     "settings.focusedRowBackground": "#1e1e1e",
     "breadcrumb.foreground": "#ee77a5",
     "breadcrumb.background": "#1e1e1e",
-    "breadcrumb.focusForeground": "#323232",
+    "breadcrumb.focusForeground": "#ffffff",
     "breadcrumb.activeSelectionForeground": "#ffffff",
     "breadcrumbPicker.background": "#1e1e1e",
     "editor.snippetTabstopHighlightBackground": "#5151517f",
