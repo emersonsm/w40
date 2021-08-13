@@ -2,7 +2,7 @@
   "name": "w40-theme",
   "displayName": "w40 Theme",
   "description": "A simple VSCode theme, good for your eyes.",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "license": "MIT",
   "author": "Emerson Santiago",
   "publisher": "emersonsm",
@@ -36,7 +36,7 @@
       {
         "label": "w40 Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/w40.json"
+        "path": "./themes/w40-color-theme.json"
       }
     ]
   }
