@@ -1,5 +1,5 @@
 # w40
-A simple VSCode theme, good for your eyes.
+A pink VSCode theme, good for your eyes.
 
 ![alt text](https://github.com/emersonsm/w40/blob/master/images/theme-image.png?raw=true)
 
