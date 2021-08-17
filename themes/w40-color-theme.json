@@ -139,7 +139,7 @@
     "editor.symbolHighlightBackground": "#ee77a533",
     "editorWhitespace.foreground": "#515151",
     "editorIndentGuide.background": "#515151",
-    "editorIndentGuide.activeBackground": "#1e1e1e",
+    "editorIndentGuide.activeBackground": "#ffffff",
     "editorRuler.foreground": "#515151",
     "editorCodeLens.foreground": "#ee77a5",
     "editorLightBulb.foreground": "#5bbbec",
