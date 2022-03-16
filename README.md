@@ -1,7 +1,7 @@
 # w40
 A pink VSCode theme, good for your eyes.
 
-![alt text](https://github.com/emersonsm/w40/blob/master/images/theme-image.png?raw=true)
+![alt text](https://github.com/emersonsm/w40/blob/master/images/theme.png?raw=true)
 
 ## Bugs
 I know that w40 theme have some color adjustments to be made. So, you can use ISSUES to report or help me to fix it making a PR :)
