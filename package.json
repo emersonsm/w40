@@ -2,7 +2,7 @@
   "name": "w40-theme",
   "displayName": "w40 Theme",
   "description": "A dark pink VSCode theme, good for your eyes.",
-  "version": "1.1.6",
+  "version": "1.2.7",
   "license": "MIT",
   "author": "Emerson Santiago",
   "publisher": "emersonsm",
@@ -18,7 +18,7 @@
     "theme": "dark"
   },
   "engines": {
-    "vscode": "^1.55.0"
+    "vscode": "^1.80.0"
   },
   "categories": [
     "Themes"
@@ -28,7 +28,10 @@
     "pink theme",
     "pink-theme",
     "dark pink",
-    "color-theme"
+    "color-theme",
+    "pink",
+    "black pink",
+    "good eyes"
   ],
   "icon": "w40-icon.png",
   "contributes": {
