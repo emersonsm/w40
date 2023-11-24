@@ -31,7 +31,8 @@
     "color-theme",
     "pink",
     "black pink",
-    "good eyes"
+    "good eyes",
+    "dark theme"
   ],
   "icon": "w40-icon.png",
   "contributes": {
