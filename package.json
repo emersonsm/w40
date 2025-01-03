@@ -2,16 +2,16 @@
   "name": "pinkcode-theme",
   "displayName": "PinkCode Theme",
   "description": "A dark pink VSCode theme, good for your eyes.",
-  "version": "1.3.1",
+  "version": "1.3.3",
   "license": "MIT",
   "author": "Emerson Santiago",
   "publisher": "emersonsm",
   "repository": {
     "type": "git",
-    "url": "https://github.com/emersonsm/w40.git"
+    "url": "https://github.com/emersonsm/pinkcode-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/emersonsm/w40/issues"
+    "url": "https://github.com/emersonsm/pinkcode-theme/issues"
   },
   "galleryBanner": {
     "color": "#cd84c8",
@@ -35,7 +35,7 @@
     "good eyes",
     "dark theme"
   ],
-  "icon": "pinkcode-theme-icon.png",
+  "icon": "images/pinkcode-theme-icon.png",
   "contributes": {
     "themes": [
       {
