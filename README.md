@@ -6,10 +6,10 @@ A pink VSCode theme, good for your eyes.
 ## Installation
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
 ```sh
-ext install emersonsm.w40-theme
+ext install emersonsm.pinkcode-theme
 ```
 
-or you can visit [PinkCode Theme Visual Studio Marketplace page](https://marketplace.visualstudio.com/items?itemName=emersonsm.w40-theme) to rating as well!
+or you can visit [PinkCode Theme Visual Studio Marketplace page](https://marketplace.visualstudio.com/items?itemName=emersonsm.pinkcode-theme) to rating as well!
 
 ## Bugs
 I know that PinkCode Theme have some color adjustments to be made. So, you can use ISSUES to report or help me to fix it making a PR :)
