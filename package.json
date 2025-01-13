@@ -24,6 +24,10 @@
     "Themes"
   ],
   "keywords": [
+    "dark theme",
+    "dark mode",
+    "vscode themes",
+    "gothic",
     "pinkcode",
     "pink code theme",
     "pink theme",
@@ -32,8 +36,7 @@
     "color-theme",
     "pink",
     "black pink",
-    "good eyes",
-    "dark theme"
+    "good eyes"
   ],
   "icon": "images/pinkcode-theme-icon.png",
   "contributes": {
